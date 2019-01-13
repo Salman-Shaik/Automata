@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Talisman
+.pre-commit-config.yaml
+.pre-commit-config.yml
+.talismanignore
